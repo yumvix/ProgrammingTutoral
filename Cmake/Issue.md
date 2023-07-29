@@ -1,4 +1,4 @@
-# CMAKE_INSTALL_PREFIX not work
+# CMAKE_INSTALL_PREFIX not work - Solved
 
 ```cmake
 project(zlib C)
